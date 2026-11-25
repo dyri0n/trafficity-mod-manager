@@ -63,5 +63,15 @@
     "author": "Trafficity Mod Manager",
     "description": "Opt-in developer overlay in BuildingViewPanel showing exact satisfaction factors, targets, velocities, and color-coded progress bars. Disabled by default.",
     "downloadUrl": "https://github.com/dyri0n/trafficity-mod-manager/releases/latest/download/dev-telemetry-mod.zip"
+  },
+  {
+    "id": "maipulation-mod",
+    "name": "Manipulation Mod",
+    "version": "1.5.4",
+    "modloaderVersion": "1.4.3",
+    "author": "artgey",
+    "description": "Alt+M: cheats, vehicle reset, simulation speed, quiet asphalt, safer lane use, traffic light phases, lane signs and facility-linked service access.",
+    "downloadUrl": "https://github.com/artgey/trafficity-mod-manager/releases/download/manipulation-mod-v1.5.4/manipulation-mod-v1.5.4.zip",
+    "sha256": "f8f4cf29604d6460fb1dffc163a9e9d0a40e235995d8fd50b59aedf547a1360b"
   }
 ]
